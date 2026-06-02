@@ -41,9 +41,6 @@
 
 ### PHP Ecosystem & Hosting
 
-<img src="https://skillicons.dev/icons?i=wordpress,apache" />
-<br/><br/>
-
 <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
 <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
 <img src="https://img.shields.io/badge/Plesk-52BBE6?style=for-the-badge&logo=plesk&logoColor=white" />
