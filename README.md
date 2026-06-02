@@ -58,19 +58,6 @@
 
 ---
 
-## 📚 Currently Learning
-
-```txt id="3y2onh"
-• Data Structures & Algorithms
-• Operating Systems
-• Computer Networks
-• Database Internals
-• System Design
-• Backend Scalability
-```
-
----
-
 ## 🎯 Current Focus
 
 * Building real-world full stack applications
