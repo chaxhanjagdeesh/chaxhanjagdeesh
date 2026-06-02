@@ -26,11 +26,11 @@
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=js,cpp,c,php,python,java,bash" />
+<img src="https://skillicons.dev/icons?i=js,php,python,bash" />
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,redux" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,jquery" />
 
 ### Backend
 
@@ -38,11 +38,18 @@
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
+
+### PHP Ecosystem & Tools
+
+<img src="https://skillicons.dev/icons?i=wordpress" />
+<br/>
+
+<img src="https://img.shields.io/badge/Plesk-52BBE6?style=for-the-badge&logo=plesk&logoColor=white" />
 
 ### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,docker,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,figma" />
 
 </div>
 
@@ -50,7 +57,7 @@
 
 ## 📚 Currently Learning
 
-```txt id="r7j3h0"
+```txt id="3y2onh"
 • Data Structures & Algorithms
 • Operating Systems
 • Computer Networks
