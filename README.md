@@ -58,14 +58,6 @@
 
 ---
 
-## ⚡ Other Technologies
-
-```txt id="j7h2tf"
-AJAX • REST APIs • JWT Authentication • Socket.io • Linux CLI • SSH • Mongoose • Axios
-```
-
----
-
 ## 📚 Currently Learning
 
 ```txt id="3y2onh"
