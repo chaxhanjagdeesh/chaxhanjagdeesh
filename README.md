@@ -19,7 +19,6 @@
 * 🚀 Interested in system design, networking, and software architecture
 
 ---
-
 ## 🧰 Tech Stack
 
 <div align="center">
@@ -38,20 +37,35 @@
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase" />
 
-### PHP Ecosystem & Tools
+### PHP Ecosystem & Hosting
 
-<img src="https://skillicons.dev/icons?i=wordpress" />
-<br/>
+<img src="https://skillicons.dev/icons?i=wordpress,apache" />
+<br/><br/>
 
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+<img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
 <img src="https://img.shields.io/badge/Plesk-52BBE6?style=for-the-badge&logo=plesk&logoColor=white" />
+<img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
+
+### Deployment & Platforms
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify" />
 
 ### Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,figma" />
 
 </div>
+
+---
+
+## ⚡ Other Technologies
+
+```txt id="j7h2tf"
+AJAX • REST APIs • JWT Authentication • Socket.io • Linux CLI • SSH • Mongoose • Axios
+```
 
 ---
 
